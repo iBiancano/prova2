@@ -1,0 +1,22 @@
+{
+  "name": "analisisDAR",
+  "version": "0.0.1",
+  "description": "Elección de las tecnologías más apropiadas para el desarrollo del proyecto SEGMAFLOT",
+  "main": "index.js",
+  "authors": {
+    "name": "HMV Soluciones",
+    "email": "servicio@hmvsoluciones.com"
+  },
+  "repository": "/Analisis DAR",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "@vuepress/plugin-back-to-top": "^1.9.7"
+  }
+}
